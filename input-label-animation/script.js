@@ -9,3 +9,5 @@ labels.forEach((label) => {
     )
     .join("");
 });
+
+var i;
